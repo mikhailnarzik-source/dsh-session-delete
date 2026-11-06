@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sitzung löschen",
+    "description": "Fügt dem Sitzungsmenü in der Seitenleiste „Sitzung löschen“ hinzu: prüft verknüpfte Sitzungen, verlangt das Wort „delete“ und kann die von der Sitzung erstellten Projektdateien mitlöschen."
+  }
+}

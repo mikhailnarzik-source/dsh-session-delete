@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Supprimer la session",
+    "description": "Ajoute « Supprimer la session » au menu des sessions de la barre latérale : vérifie les sessions liées, exige le mot « delete » et peut aussi supprimer les fichiers du projet créés par la session."
+  }
+}

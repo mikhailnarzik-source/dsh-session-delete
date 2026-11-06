@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Excluir sessão",
+    "description": "Adiciona «Excluir sessão» ao menu de sessão da barra lateral: verifica sessões vinculadas, exige a palavra «delete» e pode excluir também os arquivos do projeto criados pela sessão."
+  }
+}

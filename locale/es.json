@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Eliminar sesión",
+    "description": "Añade «Eliminar sesión» al menú de sesión de la barra lateral: comprueba las sesiones vinculadas, exige la palabra «delete» y puede eliminar también los archivos del proyecto creados por la sesión."
+  }
+}

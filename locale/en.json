@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Delete session",
+    "description": "Adds a Delete session action to the sidebar session menu: checks linked sessions, requires the word \"delete\", and can also remove the project files the session created."
+  }
+}
